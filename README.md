@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/user-attachments/assets/9bca46b6-9ff3-40c0-995f-5104c137e327)](https://github.com/Arora-Sir)
+
 <h1 align="center">Hi 👋, I'm Mohit Arora</h1>
 
 <h3 align="center">
