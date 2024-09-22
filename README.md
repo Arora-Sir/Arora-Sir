@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/user-attachments/assets/9bca46b6-9ff3-40c0-995f-5104c137e327)](https://github.com/Arora-Sir)
+<!-- [![MasterHead](https://github.com/user-attachments/assets/9bca46b6-9ff3-40c0-995f-5104c137e327)](https://github.com/Arora-Sir) -->
+[![MasterHead](https://github.com/user-attachments/assets/422c9d98-7724-4819-bc52-8467aa1b4d12)](https://github.com/Arora-Sir)
 
 <h1 align="center">Hi 👋, I'm Mohit Arora</h1>
 
