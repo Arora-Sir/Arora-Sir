@@ -3,30 +3,42 @@
 
 <h1 align="center">Hi 👋, I'm Mohit Arora</h1>
 
-<h3 align="center">
+<!--<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Passionate+Game+Developer;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
-</h3>
+</h3>-->
 
+<div align="center">
+  
+  [![PassionateDeveloper](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Passionate+Game+Developer;Aspiring+Full+Stack+Developer)](https://github.com/Arora-Sir)
+
+</div>
 <!-- About me -->
 <img align="right" alt="Coding" width="200" style="padding-left:20px;" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 <!-- List of Items -->
 <ul>
-  <li>🔭 Currently enhancing Bubble Shooter games for Android and iOS at <a href="https://www.madovergames.com/">MadOverGames</a></li>
-  </br>
-  <li>🌱 Learning frontend development with JavaScript and React, and backend technologies like Node.js to complete the MERN stack</li>
-   </br>
-  <li>👯 Seeking collaboration on open-source projects in Unity, C#, or web development to grow the community</li>
-   </br>
-  <li>💬 Ask me about game development in Unity, C#, JavaScript, Playable Ads, and WebGL-based games for the Facebook Instant platform</li>
-   </br>
-  <li>
-    📫 Reach me at  
+  <li>🔭 Crafting and refining Bubble Shooter games for Android and iOS at 
+    <a href="https://www.madovergames.com/" target="_blank">MadOverGames</a>
+  </li>
+  <br />
+  
+  <li>🌱 Currently expanding my skill set by learning JavaScript and React on the frontend, while also diving into backend magic with Node.js—aiming to become a full MERN stack developer!</li>
+  <br />
+  
+  <li>👯 I am eager to contribute to open-source projects that align with my skills in Unity, C#, and web development, and I am open to collaborating on initiatives that promote mutual growth and shared objectives.</li>
+  <br />
+  
+  <li>💬 Got questions about game dev, web development, or any tech I know? I'm happy to help with Unity, C#, JavaScript, Playable Ads, WebGL, and beyond!</li>
+  <br />
+  
+  <li>📫 Reach me at  
     <a href="mailto:cs.mohitaroraofficial@gmail.com" target="_blank">
       <img src="https://github.com/user-attachments/assets/ce94ffcd-5314-40d8-9bff-bab7726319f5" alt="Gmail" width="35" height="35"/>
     </a>
   </li>
-   </br>
+  <br />
 </ul>
+
+
 
 <!-- Connect with me and Coding Profiles -->
 <table>
