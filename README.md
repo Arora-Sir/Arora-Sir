@@ -6,16 +6,24 @@
 
 <!-- About me -->
 <img align="right" alt="Coding" width="200" style="padding-left:20px;" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
-
-- 🔭 Currently enhancing Bubble Shooter games for Android and iOS at [MadOverGames](https://www.madovergames.com/)
-
-- 🌱 Learning frontend development with JavaScript and React, and backend technologies like Node.js to complete the MERN stack
-
-- 👯 Seeking collaboration on open-source projects in Unity, C#, or web development to grow the community
-
-- 💬 Ask me about game development in Unity, C#, JavaScript, Playable Ads, and WebGL-based games for the Facebook Instant platform
-
-- 📫 Reach me at **cs.mohitaroraofficial@gmail.com**
+<!-- List of Items -->
+<ul>
+  <li>🔭 Currently enhancing Bubble Shooter games for Android and iOS at <a href="https://www.madovergames.com/">MadOverGames</a></li>
+  </br>
+  <li>🌱 Learning frontend development with JavaScript and React, and backend technologies like Node.js to complete the MERN stack</li>
+   </br>
+  <li>👯 Seeking collaboration on open-source projects in Unity, C#, or web development to grow the community</li>
+   </br>
+  <li>💬 Ask me about game development in Unity, C#, JavaScript, Playable Ads, and WebGL-based games for the Facebook Instant platform</li>
+   </br>
+  <li>
+    📫 Reach me at  
+    <a href="mailto:cs.mohitaroraofficial@gmail.com" target="_blank">
+      <img src="https://github.com/user-attachments/assets/ce94ffcd-5314-40d8-9bff-bab7726319f5" alt="Gmail" width="35" height="35"/>
+    </a>
+  </li>
+   </br>
+</ul>
 
 <!-- Connect with me and Coding Profiles -->
 <table>
@@ -104,17 +112,15 @@
 </table>
 </br>
 
-<h2>📊 
-  <span>GitHub Stats:</span>
-  
-  <!-- Profile Views -->
-  <div align="left">
-    <a href="https://github.com/Arora-Sir">
-      <img src="https://komarev.com/ghpvc/?username=arora-sir&label=PROFILE%20VIEWS&style=flat-square&color=brightgreen" alt="Profile Views" />
+<h2 style="display: flex; justify-content: space-between; align-items: center;">
+  <span>📊 GitHub Stats:</span>  
+  <!-- Profile Views with Link -->
+  <span> 
+    <a href="https://github.com/Arora-Sir" target="_blank">
+      <img align="right" src="https://komarev.com/ghpvc/?username=arora-sir&label=PROFILE%20VIEWS&style=flat-square&color=brightgreen" alt="Profile Views" />
     </a>
-  </div> 
+  </span>
 </h2>
-
 
 </p>
 <table align="center">
