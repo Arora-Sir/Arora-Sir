@@ -138,15 +138,15 @@
 </h2>
 </p>
 
-<p align="center">
-  <a href="URL-TO-REDIRECT-ON-CLICK" style="background: white; display: inline-block; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=arora-sir&show_icons=true&locale=en&theme=default">
-  </a>
-  <a href="URL-TO-REDIRECT-ON-CLICK" style="background: white; display: inline-block; padding: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arora-sir&theme=default">
-  </a>
-  <a href="URL-TO-REDIRECT-ON-CLICK" style="background: white; display: inline-block; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arora-sir&show_icons=true&locale=en&layout=compact&theme=default">
-  </a>
-</p>
+<div style="display: flex; justify-content: center; align-items: stretch; text-align: center; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1 1 300px; max-width: 300px; min-width: 300px; display: flex; flex-direction: column; align-items: center; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 8px; background: white;">
+    <img src="https://github-readme-stats.vercel.app/api?username=arora-sir&show_icons=true&locale=en&theme=dark" style="width: 100%; height: auto; object-fit: contain;">
+  </div>
+  <div style="flex: 1 1 300px; max-width: 300px; min-width: 300px; display: flex; flex-direction: column; align-items: center; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 8px; background: white;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arora-sir&theme=dark" style="width: 100%; height: auto; object-fit: contain;">
+  </div>
+  <div style="flex: 1 1 300px; max-width: 300px; min-width: 300px; display: flex; flex-direction: column; align-items: center; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 8px; background: white;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arora-sir&show_icons=true&locale=en&layout=compact&theme=dark" style="width: 100%; height: auto; object-fit: contain;">
+  </div>
+</div>
 
