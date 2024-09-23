@@ -1,4 +1,5 @@
 <!-- [![MasterHead](https://github.com/user-attachments/assets/9bca46b6-9ff3-40c0-995f-5104c137e327)](https://github.com/Arora-Sir) -->
+
 [![MasterHead](https://github.com/user-attachments/assets/422c9d98-7724-4819-bc52-8467aa1b4d12)](https://github.com/Arora-Sir)
 
 <h1 align="center">Hi 👋, I'm Mohit Arora</h1>
@@ -37,8 +38,6 @@
   </li>
   <br />
 </ul>
-
-
 
 <!-- Connect with me and Coding Profiles -->
 <table>
@@ -130,24 +129,24 @@
 <h2 style="display: flex; justify-content: space-between; align-items: center;">
   <span>📊 GitHub Stats:</span>  
   <!-- Profile Views with Link -->
-  <span> 
-    <a href="https://github.com/Arora-Sir" target="_blank">
-      <img align="right" src="https://komarev.com/ghpvc/?username=arora-sir&label=PROFILE%20VIEWS&style=flat-square&color=brightgreen" alt="Profile Views" />
-    </a>
-  </span>
-</h2>
+<span> 
+  <a href="https://github.com/Arora-Sir" target="_blank">
+    <img align="right" src="https://komarev.com/ghpvc/?username=arora-sir&label=PROFILE%20VIEWS&style=flat-square&color=brightgreen" alt="Profile Views" style="min-width:100px; padding-left:35px" />
+  </a>
+</span>
 
+</h2>
 </p>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=arora-sir&show_icons=true&locale=en&theme=default" alt="arora-sir" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arora-sir&theme=default" alt="arora-sir" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arora-sir&show_icons=true&locale=en&layout=compact&theme=default" alt="arora-sir" height="200"/>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="URL-TO-REDIRECT-ON-CLICK" style="background: white; display: inline-block; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=arora-sir&show_icons=true&locale=en&theme=default">
+  </a>
+  <a href="URL-TO-REDIRECT-ON-CLICK" style="background: white; display: inline-block; padding: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arora-sir&theme=default">
+  </a>
+  <a href="URL-TO-REDIRECT-ON-CLICK" style="background: white; display: inline-block; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arora-sir&show_icons=true&locale=en&layout=compact&theme=default">
+  </a>
+</p>
+
