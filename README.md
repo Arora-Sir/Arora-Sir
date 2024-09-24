@@ -150,3 +150,4 @@
   </div>
 </div>
 
+![snake gif](https://github.com/Arora-Sir/Arora-Sir/blob/output/github-snake.svg)
