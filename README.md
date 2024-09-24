@@ -1,5 +1,4 @@
 <!-- [![MasterHead](https://github.com/user-attachments/assets/9bca46b6-9ff3-40c0-995f-5104c137e327)](https://github.com/Arora-Sir) -->
-
 [![MasterHead](https://github.com/user-attachments/assets/422c9d98-7724-4819-bc52-8467aa1b4d12)](https://github.com/Arora-Sir)
 
 <h1 align="center">Hi 👋, I'm Mohit Arora</h1>
@@ -126,6 +125,14 @@
 </table>
 </br>
 
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arora-Sir/Arora-Sir/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arora-Sir/Arora-Sir/blob/output/output/ocean.gif">
+  <img alt="github contribution grid snake animation" src="https://github.com/Arora-Sir/Arora-Sir/blob/output/ocean.gif">
+</picture>
+</div>
+
 <h2 style="display: flex; justify-content: space-between; align-items: center;">
   <span>📊 GitHub Stats:</span>  
   <!-- Profile Views with Link -->
@@ -148,10 +155,4 @@
   <div style="flex: 1 1 300px; max-width: 300px; min-width: 300px; display: flex; flex-direction: column; align-items: center; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); border-radius: 8px; background: white;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arora-sir&show_icons=true&locale=en&layout=compact&theme=dark" style="width: 100%; height: auto; object-fit: contain;">
   </div>
-</div>
-
-<div align="center">
-<picture>
-  <img alt="github contribution grid snake animation" src="https://github.com/Arora-Sir/Arora-Sir/blob/output/github-contribution-grid-snake.svg">
-</picture>
 </div>
