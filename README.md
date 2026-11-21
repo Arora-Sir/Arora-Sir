@@ -19,7 +19,7 @@
   <br />
   <li>💬 Got questions about game dev, web development, or any tech I know? I'm happy to help with Unity, C#, Java, Spring Boot, React, Playable Ads, WebGL, and beyond!</li>
   <br />
-  <li>📫 Reach me at <a href="mailto:cs.mohitaroraofficial@gmail.com"><img src="https://github.com/user-attachments/assets/ce94ffcd-5314-40d8-9bff-bab7726319f5" alt="Gmail" width="30" align="absmiddle" /></a></li>
+  <li>📫 Reach me at <a href="mailto:contact@mohitarora.me"><img src="https://github.com/user-attachments/assets/ce94ffcd-5314-40d8-9bff-bab7726319f5" alt="Gmail" width="30" align="absmiddle" /></a></li>
 </ul>
 
 <br/>
